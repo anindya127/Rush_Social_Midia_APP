@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364913204102",
+    "project_id": "rush-df9aa",
+    "storage_bucket": "rush-df9aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364913204102:android:51af61e4d06c3cd7d72a07",
+        "android_client_info": {
+          "package_name": "com.rush.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOqdUuwhFidpPCSZDwZdWxFq1JEFMC_Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
